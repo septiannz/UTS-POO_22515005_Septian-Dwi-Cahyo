@@ -1,2 +1,4 @@
-# UTS-POO_22515005_Septian-Dwi-Cahyo
-ini adalah repository untuk pemenuhan uts oop
+# UTS Pemrograman Berorientasi Objek
+Nama: Septian Dwi Cahyo
+NIM: 22515005
+Topik: Hotel | ADT: Stack
